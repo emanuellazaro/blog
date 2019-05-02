@@ -1,0 +1,5 @@
+flask
+unittest2
+flask_cors
+pymongo
+flask-jwt-extended
